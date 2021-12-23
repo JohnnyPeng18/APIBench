@@ -33,7 +33,7 @@ Currently we apply the following query reformulation techniques to process the o
 | ------------------------- | ------------------------------------------------------------ |
 | RACK                      | https://github.com/masud-technope/RACK-Replication-Package   |
 | NLP2API                   | https://github.com/masud-technope/NLP2API-Replication-Package |
-| SEQUER                    | https://sequer-tpznovfjxa-uc.a.run.app/?query=               |
+| SEQUER                    | https://github.com/kbcao/sequer                              |
 | Google Prediction Service | http://suggestqueries.google.com/complete/search?            |
 | NLPAUG                    | https://github.com/makcedward/nlpaug                         |
 
