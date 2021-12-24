@@ -61,8 +61,9 @@ If you use our experiment results and benchmark dataset, please cite us:
 ```
 @misc{peng2021revisiting,
       title={Revisiting, Benchmarking and Exploring API Recommendation: How Far Are We?}, 
-      author={Yun Peng, Shuqing Li, Wenwei Gu, Yichen Li, Wenxuan Wang, Cuiyun Gao, and Michael Lyu},
+      author={Yun Peng and Shuqing Li and Wenwei Gu and Yichen Li and Wenxuan Wang and Cuiyun Gao and Michael Lyu},
       year={2021},
+      eprint={2112.12653},
       archivePrefix={arXiv},
       primaryClass={cs.SE}
 }
