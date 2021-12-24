@@ -1,7 +1,7 @@
 # APIBench
 ![image](https://img.shields.io/badge/Version-1.0-green)  ![image](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.5797297-blue)
 
-APIBench is the benchmark for evaluating the performance of API recommendation approaches released in paper "*[Revisiting, Benchmarking and Exploring APIRecommendation: How Far Are We?](https://www.yunpeng.site/files/apirec.pdf)*".
+APIBench is the benchmark for evaluating the performance of API recommendation approaches released in paper "*[Revisiting, Benchmarking and Exploring API Recommendation: How Far Are We?](https://www.yunpeng.site/files/apirec.pdf)*".
 
 ## Download the Benchmark
 
