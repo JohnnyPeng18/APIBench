@@ -5,7 +5,7 @@ APIBench is the benchmark for evaluating the performance of API recommendation a
 
 ## Download the Benchmark
 
-As GitHub does not hold large datasets, you can download the benchmark dataset at [Zenodo]().
+As GitHub does not hold large datasets, you can download the benchmark dataset at [Zenodo](https://zenodo.org/record/5797297#.YcU6gS21H8A).
 
 ## Benchmark Details
 
@@ -103,8 +103,9 @@ If you use our benchmark dataset and related experiment results or code, please 
 ```
 @misc{peng2021revisiting,
       title={Revisiting, Benchmarking and Exploring API Recommendation: How Far Are We?}, 
-      author={Yun Peng, Shuqing Li, Wenwei Gu, Yichen Li, Wenxuan Wang, Cuiyun Gao, and Michael Lyu},
+      author={Yun Peng and Shuqing Li and Wenwei Gu and Yichen Li and Wenxuan Wang and Cuiyun Gao and Michael Lyu},
       year={2021},
+      eprint={2112.12653},
       archivePrefix={arXiv},
       primaryClass={cs.SE}
 }

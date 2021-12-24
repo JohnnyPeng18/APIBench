@@ -1,10 +1,10 @@
 # Baseline Results
 
-This repository contains the evaluation results and outputs from the baselines in paper: *[Revisiting, Benchmarking and Exploring APIRecommendation: How Far Are We?](https://www.yunpeng.site/files/apirec.pdf)*
+This repository contains the evaluation results and outputs from the baselines in paper: *[Revisiting, Benchmarking and Exploring API Recommendation: How Far Are We?](https://www.yunpeng.site/files/apirec.pdf)*
 
 To facilitate further research on API recommendation and reduce the burden of re-implementing different baselines, we release all the evaluation results and outputs of 11 baselines along with 4 IDEs discussed in the paper.
 
-## DownLoad the results
+## DownLoad Experiment Results
 
 You can download the results at [Google Drive](https://drive.google.com/drive/folders/1PizGwleBrOqUIXxH90kSuD9irNEfc2aM?usp=sharing).
 
@@ -61,8 +61,9 @@ If you use our experiment results and benchmark dataset, please cite us:
 ```
 @misc{peng2021revisiting,
       title={Revisiting, Benchmarking and Exploring API Recommendation: How Far Are We?}, 
-      author={Yun Peng, Shuqing Li, Wenwei Gu, Yichen Li, Wenxuan Wang, Cuiyun Gao, and Michael Lyu},
+      author={Yun Peng and Shuqing Li and Wenwei Gu and Yichen Li and Wenxuan Wang and Cuiyun Gao and Michael Lyu},
       year={2021},
+      eprint={2112.12653},
       archivePrefix={arXiv},
       primaryClass={cs.SE}
 }
