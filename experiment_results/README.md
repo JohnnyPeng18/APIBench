@@ -12,7 +12,7 @@ You can download the results at [Google Drive](https://drive.google.com/drive/fo
 
 We include the results of query-based baselines in path `baseline_results/querybased`.
 
-The outputs are in `baseline_results/querybased/output` and each ouput file is in `json` format with structures corresponding to the [benchmark dataset]().
+The outputs are in `baseline_results/querybased/output` and each ouput file is in `json` format with structures corresponding to the [benchmark dataset](https://github.com/JohnnyPeng18/APIBench).
 
 The detailed evaluation results (partially shown in the paper) are in `baseline_results/querybased/evaluation` and are in `csv` formats.
 
@@ -35,7 +35,7 @@ As  discussed in the paper, we conduct two different scales of experiment using 
 
 The outputs and detailed evaluation results are in the folder of `output` and `evaluation` under `baseline_results/codebased/full_dataset` and `baseline_results/codebased/sampled_dataset`.
 
-Each ouput file is in `json` format with structures corresponding to the [benchmark dataset]().
+Each ouput file is in `json` format with structures corresponding to the [benchmark dataset](https://github.com/JohnnyPeng18/APIBench).
 
 The detailed evaluation results (partially shown in the paper) are in `csv` formats.
 
