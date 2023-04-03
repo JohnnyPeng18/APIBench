@@ -96,10 +96,6 @@ To facilitate further research on API recommendation and reduce the burden of re
 
 Please go to the `experiment_results`folder for further detailed information.
 
-## ToDo
-
-- Upload the re-implementation code of baselines discussed in the paper.
-
 ## Cite Us
 
 If you use our benchmark dataset and related experiment results or code, please cite us:
